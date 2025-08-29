@@ -28,7 +28,7 @@ class QuoteCard extends StatelessWidget {
               quote.author,
               style: TextStyle(fontSize: 14.0, color: Colors.grey[800]),
             ),
-            //Like button
+            //Date & Like button
             SizedBox(height: 6.0),
             Row(
               mainAxisSize: MainAxisSize.min,
