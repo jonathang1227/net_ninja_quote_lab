@@ -1,6 +1,6 @@
 # net_ninja_quote_lab
 
-Net Ninja Quote Lab - Part 1
+This code contains the requirements for Net Ninja Quote Lab - Part 1 & Part 2
 
 Implemented the Upvote and Date Features
 
