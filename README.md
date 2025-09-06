@@ -2,7 +2,15 @@
 
 This code contains the requirements for Net Ninja Quote Lab - Part 1 & Part 2
 
-Implemented the Upvote and Date Features
+Implemented the Likes Counter and Date Added Features:
+  Likes Counter
+  Add int likes = 0 to Quote.
+  Put a 👍 IconButton on the card that increments likes and shows the count (use setState in the parent that owns the list).
+  
+  Date Added
+  Add DateTime createdAt to Quote.
+  Show a formatted date (e.g., Jan 15, 2025).
+  Hint: add intl via dart pub add intl.
 
 ## Getting Started
 
